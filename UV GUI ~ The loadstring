@@ -1,0 +1,3 @@
+-- Loadstring for UV GUI
+-- The reason for this loadstring is so that as soon as I update, you don't need to go to my github.
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MarioHackerYT/Universal-GUI/main/UV%20GUI%20%7E%20The%20script"))()
