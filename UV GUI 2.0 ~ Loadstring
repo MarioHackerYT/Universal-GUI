@@ -1,0 +1,10 @@
+--[[
+
+enjoy the script but u have to do key system first
+key system: https://link-center.net/498446/uv-gui-the-key-system 
+The other thing i posted was 1.0. That is now discontinued and this one will be improved.
+The reason why that the other one is discontinued because with a key system I will get money.
+So yeah. Enjoy the script.
+
+]]--
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MarioHackerYT/Universal-GUI/main/UV%20GUI%20%7E%202.0"))()
